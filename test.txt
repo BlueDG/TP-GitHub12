@@ -1,1 +1,4 @@
-coucou
+Ceci est mon premier push sur le serveur Github.
+
+Prise de notes: Commit = historisation de mes modifications. Utile pour faire des versions.
+
